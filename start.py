@@ -66,10 +66,9 @@ def pow():
     slownik2 = {'imie': 'adam', 0: 'adam'}
     print(slownik2.keys())
     print(slownik2.values())
-for element in kolekcja:
 
 from math import *
 import math as m
-from math import pow
 
-m.pow()
+
+print(pow(e,10))
